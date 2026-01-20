@@ -1,3 +1,17 @@
+# Movie App
+
+A modern OTT-style movie search and discovery app built with React, Vite, and the OMDb API. Search for movies, view detailed info, watch trailers, and manage your watchlist—all in a sleek Netflix/Prime Video-inspired UI.
+
+## Technologies Used
+
+- **React** – Frontend UI library
+- **Vite** – Fast development/build tool
+- **OMDb API** – Movie data source
+- **TMDb API** – For fetching trailers
+- **Axios** – HTTP requests
+- **React Router** – Routing and navigation
+- **CSS** – Custom, OTT-inspired styling
+- 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
