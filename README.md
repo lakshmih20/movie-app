@@ -11,7 +11,7 @@ A modern OTT-style movie search and discovery app built with React, Vite, and th
 - **Axios** – HTTP requests
 - **React Router** – Routing and navigation
 - **CSS** – Custom, OTT-inspired styling
-- 
+  
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
